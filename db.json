@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-14-img.jpg",
+      "title": "MAJESTY PALM",
+      "type": "all greens popular",
+      "price": 259
+    },
+    {
+      "id": 2,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-13-img.jpg",
+      "title": "FOXGLOVE FLOWER",
+      "type": "all winter popular",
+      "price": 259
+    },
+    {
+      "id": 3,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-10-img.jpg",
+      "title": "SWEET ALYSSUM",
+      "type": "all winter popular",
+      "price": 259
+    },
+    {
+      "id": 4,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-11-img.jpg",
+      "title": "SPRING SNOWFLAKE",
+      "type": "all popular",
+      "price": 170
+    },
+    {
+      "id": 5,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-12-img.jpg",
+      "title": "SCARLET SAGE",
+      "type": "all popular",
+      "price": 259
+    },
+    {
+      "id": 6,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-9-img.jpg",
+      "title": "ROCK SOAPWORT",
+      "type": "all cactuses various",
+      "price": 259
+    },
+    {
+      "id": 7,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-8-img.jpg",
+      "title": "SUMMER SAVORY",
+      "type": "all greens various",
+      "price": 259
+    },
+    {
+      "id": 8,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-7-img.jpg",
+      "title": "WILD ROSES",
+      "type": "all exotic various",
+      "price": 259
+    }
+  ]
+}
