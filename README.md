@@ -21,9 +21,9 @@ Use below code to start json server
 
 ![App Screenshot](./.screenshot/home-1.png)
 
-![App Screenshot](./screenshot/home-2.png)
+![App Screenshot](./.screenshot/home-2.png)
 
-![App Screenshot](./screenshot/home-3.png)
+![App Screenshot](./.screenshot/home-3.png)
 
 
-![App Screenshot](./screenshot/home-4.png)
+![App Screenshot](./.screenshot/home-4.png)
